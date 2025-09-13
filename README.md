@@ -1,6 +1,7 @@
-# 👋 Hi there, I'm NISHANTH K 🚀  
-🎓 3rdYear B.Tech | **Artificial Intelligence & Data Science**  
-🤖 **AI & Web Development Enthusiast** | 🧠 Critical Thinker | 🖥 Backend Developer • 🌐 Full Stack Builder  
+# 👋 Hi there, I'm **NISHANTH K** 🚀  
+
+🎓 **3rd Year B.Tech** | *Artificial Intelligence & Data Science*  
+🤖 **AI & Web Development Enthusiast** | 🧠 Critical Thinker | 🖥 Backend Developer | 🌐 Full-Stack Builder  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NishanthKarthikeyan&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
@@ -8,7 +9,7 @@
 
 ---
 
-## 🔧 Skills  
+## 🔧 **Tech Stack**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -22,48 +23,48 @@
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>  
-
----
-
-## 📂 Featured Projects  
-
-<p align="center">
-  🔗 <a href="#">💬 <b>ZARA Chatbot</b></a> – Flask + Gemini API chatbot. <br>
-  🔗 <a href="#">🧠 <b>HealthLens</b></a> – Disease Risk Forecasting using ML. <br>
-  🔗 <a href="#">📚 <b>ProctorView</b></a> – Online Exam with Smart Anti-Cheat. <br>
-  🔗 <a href="#">🏥 <b>EHR System</b></a> – Universal Health Records with Firebase & MySQL. <br>
-  🔗 <a href="#">🏆 <b>Gold Price Tracker</b></a> – Flask + GoldAPI + Gemini API.  
 </p>
 
 ---
 
-## 📈 GitHub Stats  
+## 📂 **Featured Projects**
+
+<p align="center">
+  🔗 <a href="#">💬 <b>ZARA Chatbot</b></a> – Conversational AI chatbot using Flask + Gemini API.<br>
+  🔗 <a href="#">🧠 <b>HealthLens</b></a> – Disease Risk Forecasting using ML.<br>
+  🔗 <a href="#">📚 <b>ProctorView</b></a> – Online Exam with Smart Anti-Cheat System.<br>
+  🔗 <a href="#">🏥 <b>EHR System</b></a> – Universal Health Records with Firebase & MySQL.<br>
+  🔗 <a href="#">🏆 <b>Gold Price Tracker</b></a> – Real-time price tracker using Flask + GoldAPI + Gemini API.
+</p>
+
+---
+
+## 📈 **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NishanthKarthikeyan&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishanthKarthikeyan&layout=compact&theme=radical" width="48%" />
-</p>  
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishanthKarthikeyan&theme=radical" width="48%" />
-</p>  
+</p>
 
 ---
 
-## 📫 Let's Connect!  
+## 📫 **Let's Connect**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/nishanth-k-000147348/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://nishanthk.site" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:nishanthkarthikeyan2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>  
+</p>
 
 ---
 
