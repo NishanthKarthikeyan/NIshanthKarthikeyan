@@ -1,59 +1,70 @@
-<h1 align="center">Coder</h1>
+# 👋 Hi there, I'm NISHANTH K 🚀  
+🎓 2nd Year B.Tech | **Artificial Intelligence & Data Science**  
+🤖 **AI & Web Development Enthusiast** | 🧠 Critical Thinker | 🖥 Backend Developer • 🌐 Full Stack Builder  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PYTHON-blue?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-red?logo=java&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=NishanthKarthikeyan&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-## 🔥 About Me
-- Passionate developer from India 🚀  
-- 🎓 2nd Year Student exploring **AI, Web, and Full-Stack Development**  
-- 🖥️ Building projects in **Python, Flask, React, MySQL, Firebase**  
-- ✨ Dreaming big: Become a **Software Engineer** at top companies  
-- 📖 Currently learning **AI + Full Stack Web Development**  
+## 🔧 Skills  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>  
 
 ---
 
-## 📫 Connect With Me
+## 📂 Featured Projects  
+
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white"></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
+  🔗 <a href="#">💬 <b>ZARA Chatbot</b></a> – Flask + Gemini API chatbot. <br>
+  🔗 <a href="#">🧠 <b>HealthLens</b></a> – Disease Risk Forecasting using ML. <br>
+  🔗 <a href="#">📚 <b>ProctorView</b></a> – Online Exam with Smart Anti-Cheat. <br>
+  🔗 <a href="#">🏥 <b>EHR System</b></a> – Universal Health Records with Firebase & MySQL. <br>
+  🔗 <a href="#">🏆 <b>Gold Price Tracker</b></a> – Flask + GoldAPI + Gemini API.  
 </p>
 
 ---
 
-## 🛠 Tech Stack
-**Languages:** Python, JavaScript, C, HTML, CSS, Java  
-**Frameworks & Libraries:** Flask, React, TailwindCSS  
-**Databases:** MySQL, Firebase  
-**Tools:** Git, VS Code, XAMPP  
+## 📈 GitHub Stats  
 
----
-
-## 🚀 Top Projects
-- 🔹 **ZARA Chatbot** – Flask + Gemini API chatbot  
-- 🔹 **HealthLens** – Disease Risk Forecasting using ML  
-- 🔹 **ProctorView** – Online Exam with Smart Anti-Cheat  
-- 🔹 **EHR System** – Universal Health Records with Firebase & MySQL  
-- 🔹 **Gold Price Tracker** – Flask + GoldAPI + Gemini API  
-
----
-
-## 💡 Quote
-> *Code. Load. Explode. 🚀 Learn. Earn. Build. Skilled. Thrilled.*  
-
----
-
-## 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NishanthKarthikeyan&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=NishanthKarthikeyan&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishanthKarthikeyan&layout=compact&theme=radical" width="48%" />
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishanthKarthikeyan&theme=radical" width="48%" />
+</p>  
 
 ---
 
-<p align="center">⭐ "Code. Create. Innovate." ⭐</p>
+## 📫 Let's Connect!  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>  
+
+---
+
+<p align="center">✨ <b>"Code. Learn. Build. Inspire."</b> ✨</p>
