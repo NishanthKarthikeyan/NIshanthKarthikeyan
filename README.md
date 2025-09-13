@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm **NISHANTH K** 🚀  
+# 👋 Hi there, I'm **NISHANTH K** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 🚀  
 
 🎓 **3rd Year B.Tech** | *Artificial Intelligence & Data Science*  
 🤖 **AI & Web Development Enthusiast** | 🧠 Critical Thinker | 🖥 Backend Developer | 🌐 Full-Stack Builder  
