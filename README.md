@@ -1,12 +1,12 @@
-# 👋 Hi there, I'm **NISHANTH K** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 🚀
+# 👋 Hi there, I'm **NISHANTH K** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=AI+%26+Web+Development+Enthusiast;Backend+Developer;Full-Stack+Builder;Lifelong+Learner+%26+Innovator" />
 </p>
 
-🎓 **3rd Year B.Tech** | *Artificial Intelligence & Data Science*  
-🧠 Passionate about solving problems with **AI + Web Development**  
-💻 Love building **Web Apps, APIs & ML Projects**
+🎓 **3rd Year B.Tech Student** | *Artificial Intelligence & Data Science*  
+💻 Building **Web Apps, APIs & ML Projects**  
+🚀 Passionate about **AI + Web Development** and solving real-world problems  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NishanthKarthikeyan&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/github/followers/NishanthKarthikeyan?label=Followers&style=social" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/stars/NishanthKarthikeyan?label=Stars&style=social" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Currently-Learning%20React%20%26%20AI-blue?style=flat-square" />
 </p>
 
 ---
@@ -39,23 +41,21 @@
 ## 📂 **Pinned Projects**
 
 <p align="center">
-  <a href="https://github.com/NishanthKarthikeyan/Zara-Chatbot" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NishanthKarthikeyan&repo=Zara-Chatbot&theme=radical" alt="Zara Chatbot" />
+  <a href="https://github.com/NishanthKarthikeyan/ZARA-Chatbot" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NishanthKarthikeyan&repo=ZARA-Chatbot&theme=radical" />
   </a>
   <a href="https://github.com/NishanthKarthikeyan/HealthLens" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NishanthKarthikeyan&repo=HealthLens&theme=radical" alt="HealthLens" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NishanthKarthikeyan&repo=HealthLens&theme=radical" />
   </a>
   <a href="https://github.com/NishanthKarthikeyan/Fake-news-detector" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NishanthKarthikeyan&repo=Fake-news-detector&theme=radical" alt="Fake News Detector" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NishanthKarthikeyan&repo=Fake-news-detector&theme=radical" />
   </a>
 </p>
 
 <p align="center">
-  <b>Zara Chatbot</b> — Conversational AI chatbot built with Flask and Gemini API.  
-  <br>
-  <b>HealthLens</b> — Disease risk forecasting using ML models & feature engineering.  
-  <br>
-  <b>Fake News Detector</b> — Machine learning model to classify news as real or fake (preprocessing, vectorization, model training & evaluation).
+  <b>ZARA Chatbot</b> — Conversational AI chatbot built with Flask & Gemini API.<br>
+  <b>HealthLens</b> — Disease risk forecasting using ML models & feature engineering.<br>
+  <b>Fake News Detector</b> — Classifies news as real or fake with preprocessing, vectorization & ML training.
 </p>
 
 ---
@@ -84,7 +84,7 @@
 ## 📊 **Recent Activity**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NishanthKarthikeyan&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NishanthKarthikeyan&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
@@ -92,8 +92,7 @@
 ## 🐍 **Contribution Graph (Snake)**
 
 <p align="center">
-  <!-- If you use the Platane/snk GitHub Action to generate, point this to the generated SVG in your repo's 'output' branch -->
-  <img src="https://raw.githubusercontent.com/NishanthKarthikeyan/NishanthKarthikeyan/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/NishanthKarthikeyan/NishanthKarthikeyan/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </p>
 
 ---
@@ -101,7 +100,7 @@
 ## ✨ **Random Dev Quote**
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
@@ -110,16 +109,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nishanth-k-000147348/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://nishanthk.site" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="mailto:nishanthkarthikeyan2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">✨ <b>"Code. Learn. Build. Inspire."</b> ✨</p>
+<p align="center"><b>✨ "Code. Learn. Build. Inspire." ✨</b></p>
