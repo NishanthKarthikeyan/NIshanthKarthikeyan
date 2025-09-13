@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm NISHANTH K 🚀  
-🎓 2nd Year B.Tech | **Artificial Intelligence & Data Science**  
+🎓 3rdYear B.Tech | **Artificial Intelligence & Data Science**  
 🤖 **AI & Web Development Enthusiast** | 🧠 Critical Thinker | 🖥 Backend Developer • 🌐 Full Stack Builder  
 
 <p align="center">
