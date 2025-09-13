@@ -52,13 +52,6 @@
   </a>
 </p>
 
-<p align="center">
-  <b>ZARA Chatbot</b> — Conversational AI chatbot built with Flask & Gemini API.<br>
-  <b>HealthLens</b> — Disease risk forecasting using ML models & feature engineering.<br>
-  <b>Fake News Detector</b> — Classifies news as real or fake with preprocessing, vectorization & ML training.
-</p>
-
----
 
 ## 🏆 **GitHub Achievements**
 
